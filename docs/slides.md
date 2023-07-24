@@ -1,3 +1,3 @@
 ## Demo Presentation
 hi
-[Hello] (hello.md)
+[Hello] (/docs/hello.md)
