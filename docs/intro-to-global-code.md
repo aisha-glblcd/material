@@ -22,8 +22,9 @@ permalink: /intro-to-global-code/
       this is a great opportunity to introduce yourselves & talk about your own backgrounds.
       
       What made you want to become a programmer? What do you get from it? Why would you encourage someone else to have a go?
-      
-      +++
+
+      --
+
       ## Who are we?
       * We're from all over Europe & the US
       
@@ -36,7 +37,8 @@ permalink: /intro-to-global-code/
       
       The point here is that everyone is a programmer, we don't do any gatekeeping here. If you're in the room, you're one of us. Here the lamplighters can talk about their experience at Global Code last year, and how things have changed for them in the last 12 months.
       
-      +++
+      --
+      
       ## Who are you?
       * Selection criteria wasn't about grades
       * Who doesn't want to change the world?!
@@ -61,7 +63,8 @@ permalink: /intro-to-global-code/
       
       We have to teach you some stuff first of all. So there's lots of labs, which you *must* do. In the second week we'll get to building cool stuff, and in the third and final week you'll design and build a project yourselves, in groups.
       
-      +++
+      --
+      
       ## What are we here for?
       * Learn to be PRO
       * Gain the tools to improve the world
@@ -78,7 +81,8 @@ permalink: /intro-to-global-code/
       * Electronics
       * Internet of Things
       
-      +++
+      --
+      
       ## Plan
       All kinds of other cool stuff!
       * We're *really* good at this
@@ -86,7 +90,8 @@ permalink: /intro-to-global-code/
       * cool projects
       * FUN!
       
-      +++
+      --
+      
       ## Plan
       * 9am - 4pm
       * Lunch @ 12
