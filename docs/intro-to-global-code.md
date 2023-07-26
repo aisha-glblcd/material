@@ -12,6 +12,7 @@ permalink: /intro-to-global-code/
       ![Global Code](/assets/img/GC_Logo_artwork_RGB-LOGO_colour_SMALL.png)
       
       ---
+      
       ## Who are we?
       * Software engineers
       * Professionals
@@ -29,6 +30,7 @@ permalink: /intro-to-global-code/
       * We're from all over Europe & the US
       
       ---
+      
       ## Who are you?
       * Software engineers!
       * Hand-picked
@@ -55,6 +57,7 @@ permalink: /intro-to-global-code/
       We're looking for people who are bold and excited about facing societal challenges with technology. We want to provide fuel for that fire & give you some of the skills you'll need.
       
       ---
+      
       ## What are we here for?
       * Learn Python, some electronics
       * Internet of Things
@@ -74,6 +77,7 @@ permalink: /intro-to-global-code/
       A lot of our students are excited to learn what a professional software engineer does. So let's talk about version control, CI, platforms, project management etc.
       
       ---
+      
       ## Plan
       * 3 weeks
       * Raspberry Pi
