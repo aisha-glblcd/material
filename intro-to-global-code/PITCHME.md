@@ -9,7 +9,7 @@ permalink: /intro-to-global-code/
     <textarea data-template>
       ## Global Code
       ##### 2019
-      ![Global Code](assets/img/GC_Logo_artwork_RGB-LOGO_colour_SMALL.png)
+      ![Global Code](./assets/img/GC_Logo_artwork_RGB-LOGO_colour_SMALL.png)
       
       ---
       
