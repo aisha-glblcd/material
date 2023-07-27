@@ -12,4 +12,5 @@ hello
 
 <section data-markdown>
 hi
+   ![Global Code](assets/img/GC_Logo_artwork_RGB-LOGO_colour_SMALL.png)
 </section>
