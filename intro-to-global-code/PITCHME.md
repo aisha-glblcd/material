@@ -25,11 +25,6 @@ permalink: /intro-to-global-code/
       What made you want to become a programmer? What do you get from it? Why would you encourage someone else to have a go?
 
       ---
-
-      ## Who are we?
-      * We're from all over Europe & the US
-      
-      ---
       
       ## Who are you?
       * Software engineers!
