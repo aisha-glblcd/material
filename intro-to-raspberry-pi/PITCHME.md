@@ -71,7 +71,7 @@ permalink: /intro-to-raspberry-pi/
     
     ---
     ## Go play!
-    ![Hack](/assets/img/hack-600.png)
+    ![Hack](../assets/img/hack-600.png)
     
     Note:
     1. login.iotinafrica.com everyday please
