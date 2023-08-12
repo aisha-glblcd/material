@@ -29,6 +29,10 @@ permalink: /python-data-types/
          * Byte 
          * Byte Array 
          * Range
+
+         ---
+
+         [Next: Strings] (https://aisha-glblcd.github.io/material/python-strings/)
          
       </textarea>
 </section>
