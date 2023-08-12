@@ -21,16 +21,16 @@ permalink: /intro-to-raspberry-pi/
     ---
     ## What is the Raspberry Pi?
     * We're using the third version
-    * Raspberry Pi 3 Model B:
-      * 1.2 GHz 64-bit quad-core ARM CPU
-      * 1 GB DDR2 RAM
-      * MicroSD card slot for OS & storage
+    * Raspberry Pi 4 Model B:
+      * Broadcom BCM2711, Quad-core Cortex-A72 (ARM v8) 64-bit SoC @ 1.8GHz CPU
+      * 4GB LPDDR4-3200 SDRAM
+      * MicroSD card slot for OS & Storage
       * 2.5 A power supply
     
     ---
     ## What is the Raspberry Pi?
-      * 4 USB ports
-      * Camera available
+      * 4 USB ports: 2 USB 3.0 ports; 2 USB 2.0 ports.
+      * 2-lane MIPI CSI camera port
       * HDMI output
       * Ethernet & WiFi
       * GPIO (?!)
@@ -51,7 +51,7 @@ permalink: /intro-to-raspberry-pi/
     ## What's it for?
     * Programming
     * Media Player: kodi.tv
-    * VoIP: aspberry-asterisk.org
+    * VoIP: raspberry-asterisk.org
     * Home automation: home-assistant.io
     * Anything you can build!
     
