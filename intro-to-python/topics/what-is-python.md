@@ -8,13 +8,13 @@ permalink: /python-intro-to-python/
 <section data-markdown>
     <textarea data-template>
         ## What is Python?
+        ##### Global Code | 2019
+        ![Python](../assets/img/python-360x361.png)
         * A programming language!
         * Built-in data types
         * Control flow
         * Modules
         * Loads of open-source (free!) code you can use
-        
-        
         <!--Does this work?-->
    </textarea>
 </section>
