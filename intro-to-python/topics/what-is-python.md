@@ -7,9 +7,13 @@ permalink: /python-intro-to-python/
 ---
 <section data-markdown>
     <textarea data-template>
+        ## Python
+        ##### Global Code | 2023
+      ![Python](/assets/img/python-360x361.png)
+        
+        ---
+        
         ## What is Python?
-        ##### Global Code | 2019
-        ![Python](../assets/img/python-360x361.png)
         * A programming language!
         * Built-in data types
         * Control flow
