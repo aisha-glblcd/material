@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: Introduction to Python
-description: An Intro to Python
+title: What is Python
+description: What is Python
 transition: slide
-permalink: /python-intro-to-python/
+permalink: /python-what-is-python/
 ---
 <section data-markdown>
     <textarea data-template>
