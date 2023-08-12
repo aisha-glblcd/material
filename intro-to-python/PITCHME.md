@@ -9,6 +9,7 @@ permalink: /intro-to-python/
     <textarea data-template>
       ## Python
       ##### Global Code | 2023
+        
       ![Python](../assets/img/python-360x361.png)
 
       ---
