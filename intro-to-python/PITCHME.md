@@ -12,9 +12,7 @@ permalink: /intro-to-python/
         
       ![Python](../assets/img/python-360x361.png)
 
-   </textarea>
-</section>
-
+      ---
       ---?include=/intro-to-python/topics/what-is-python.md
       ---?include=/intro-to-python/topics/hello-python.md
       ---?include=/intro-to-python/topics/data-types.md
@@ -30,6 +28,10 @@ permalink: /intro-to-python/
       ---?include=/intro-to-python/topics/modules.md
       ---?include=/intro-to-python/topics/bytes.md
 
+   </textarea>
+</section>
+
+      
 
 
 
