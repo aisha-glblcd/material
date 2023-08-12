@@ -69,7 +69,6 @@ permalink: /intro-to-python/
         $ chmod +x hello.py
         $ ./hello.py
         ```
-        
    </textarea>
 </section>
 
