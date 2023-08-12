@@ -10,7 +10,7 @@ permalink: /python-intro-to-python/
         ## Python
         ##### Global Code | 2023
         
-      ![Python](.../assets/img/python-360x361.png)
+        ![Python](..../assets/img/python-360x361.png)
         
         ---
         
