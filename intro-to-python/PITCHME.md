@@ -13,12 +13,11 @@ permalink: /intro-to-python/
       ![Python](../assets/img/python-360x361.png)
 
    </textarea>
-   ---?include=/intro-to-python/topics/what-is-python.md
-      ---?include=/intro-to-python/topics/hello-python.md
-      ---?include=/intro-to-python/topics/data-types.md
 </section>
 
-      
+      ---?include=/intro-to-python/topics/what-is-python.md
+      ---?include=/intro-to-python/topics/hello-python.md
+      ---?include=/intro-to-python/topics/data-types.md
       ---?include=/intro-to-python/topics/string.md
       ---?include=/intro-to-python/topics/numeric.md
       ---?include=/intro-to-python/topics/list.md
