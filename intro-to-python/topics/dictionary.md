@@ -46,5 +46,7 @@ permalink: /python-dictionary/
        
        * items()
          * try it!
+       ---
+       ## Dictionary        
    </textarea>
 </section> 
