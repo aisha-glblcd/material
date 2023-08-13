@@ -30,13 +30,18 @@ permalink: /python-loops/
         ---
         ## Loops
         * nested *control flow statements*
+        
         ```python
         names = ["John", "Paul", "George", "Ringo"]
         for beatle in names:
             if len(beatle) > 4:
                 print (beatle)
         ```
+        Output:
+
+        ```python
             George Ringo
+        ```
         ---
         ## Loops
         `while` loops until condition returns false
