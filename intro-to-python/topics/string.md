@@ -13,9 +13,7 @@ permalink: /python-string/
       >>> print ("hello" == 'hello')
       True
       ```
-      
-      ---
-      
+      ---      
       ## String
       ...or Unicode (with care!)
       ```sh
@@ -25,22 +23,17 @@ permalink: /python-string/
       >>> print (command)
       ⌘
       ```
-      
       ---
-      
       ## String
       Some *builtin* functions work with variables:
       ```sh
       >>> len("hello")
       5
       ```
-
-       https://docs.python.org/3/library/functions.html
-
-       ---
-       
-        ## Next: 
-        [Numeric](https://aisha-glblcd.github.io/material/python-numeric)
+      https://docs.python.org/3/library/functions.html
+      ---
+      ## Next: 
+      [Numeric](https://aisha-glblcd.github.io/material/python-numeric)
        
     </textarea>
 </section>
