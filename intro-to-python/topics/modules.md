@@ -23,6 +23,7 @@ permalink: /python-modules/
          * Classes and objects
          * Inheritance
        ---
-       ## Modules
+       ## Next
+        [Bytes](https://aisha-glblcd.github.io/material/python-bytes/)
      </textarea>
 </section>
