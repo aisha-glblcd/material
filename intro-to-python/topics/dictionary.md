@@ -47,6 +47,7 @@ permalink: /python-dictionary/
        * items()
          * try it!
        ---
-       ## Dictionary        
+       ## Next
+       [Tuple](https://aisha-glblcd.github.io/material/python-tuple/)
    </textarea>
 </section> 
