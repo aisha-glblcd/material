@@ -22,9 +22,7 @@ permalink: /python-modules/
        * Python has *much* more
          * Classes and objects
          * Inheritance
-        ---
-        ## Next:
-        [Bytes](https://aisha-glblcd.github.io/material/python-bytes/)
-     
+       ---
+       ## Modules
      </textarea>
 </section>
