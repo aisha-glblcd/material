@@ -31,8 +31,8 @@ permalink: /python-data-types/
          * Range
          
          ---
-
-         ![Next: Strings](https://aisha-glblcd.github.io/material/python-string/)
+         
+         [Next: Strings](https://aisha-glblcd.github.io/material/python-string/)
          
       </textarea>
 </section>
