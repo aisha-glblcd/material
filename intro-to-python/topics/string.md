@@ -39,6 +39,8 @@ permalink: /python-string/
 
        ---
 
+       
+       
        [Next: Numeric](https://aisha-glblcd.github.io/material/python-numeric)
        
         </textarea>
