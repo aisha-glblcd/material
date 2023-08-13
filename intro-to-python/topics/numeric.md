@@ -80,7 +80,7 @@ permalink: /python-numeric/
       (4+6j)
       ```
       ---
-      ## Next
+      ## Next:
       [List](https://aisha-glblcd.github.io/material/python-list)
   </textarea>
 </section>
