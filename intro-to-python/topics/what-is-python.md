@@ -20,7 +20,7 @@ permalink: /python-what-is-python/
         * Loads of open-source (free!) code you can use
         ---
         ## Next
-        [Example: Hello, Python](https://aisha-glblcd.github.io/material/python-hello-python/)
+        [Python Code Examples](https://aisha-glblcd.github.io/material/python-hello-python/)
         <!--Does this work?-->
    </textarea>
 </section>
