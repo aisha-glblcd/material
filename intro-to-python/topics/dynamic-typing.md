@@ -35,6 +35,5 @@ permalink: /python-dynamic-typing/
         ---
         ## Next:
         [Dictionary](https://aisha-glblcd.github.io/material/python-dictionary/)
-      
       </textarea>
 </section>
