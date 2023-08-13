@@ -18,7 +18,7 @@ permalink: /python-data-types/
            <type 'byte'>
            ```
            ...that describes *what it is*
-            ---
+           ---
            ## Data types
              * String, Numeric
              * List
@@ -27,8 +27,8 @@ permalink: /python-data-types/
              * Byte 
              * Byte Array 
              * Range
-            ---
-        ## Next:
-            [String](https://aisha-glblcd.github.io/material/python-string/)
+           ---
+           ## Next:
+           [String](https://aisha-glblcd.github.io/material/python-string/)
       </textarea>
 </section>
