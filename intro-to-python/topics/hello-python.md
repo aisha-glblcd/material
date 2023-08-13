@@ -15,18 +15,14 @@ permalink: /python-hello-python/
             print ("x is 1.")
         ```
         > hello.py
-        
         ---
-        
         ## Hello, Python!
         Can be executed from a file:
         ```sh
         $ python hello.py
         x is 1
         ```
-        
         ---
-        
         ## Hello, Python!
         Or interpreted using the REPL:
         ```sh
@@ -36,9 +32,7 @@ permalink: /python-hello-python/
         
         ```
         Useful for experimenting. Try it!
-        
         ---
-        
         ## Hello, Python!
         Or using UNIX's shebang syntax:
         ```python
@@ -52,5 +46,8 @@ permalink: /python-hello-python/
         $ chmod +x hello.py
         $ ./hello.py
         ```
+        ---
+        ## Next
+        [Data Types](https://aisha-glblcd.github.io/material/python-data-types/)
  </textarea>
 </section>
