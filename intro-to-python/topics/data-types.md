@@ -32,7 +32,7 @@ permalink: /python-data-types/
          
          ---
          
-         [Next: Strings](https://aisha-glblcd.github.io/material/python-string/)
+         [Next: String](https://aisha-glblcd.github.io/material/python-string/)
          
       </textarea>
 </section>
