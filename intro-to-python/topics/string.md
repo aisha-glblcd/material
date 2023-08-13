@@ -38,11 +38,11 @@ permalink: /python-string/
        https://docs.python.org/3/library/functions.html
 
        ---
-
+       
         ## Next: 
         [Numeric](https://aisha-glblcd.github.io/material/python-numeric)
        
-        </textarea>
+    </textarea>
 </section>
 
       
