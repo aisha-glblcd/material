@@ -81,6 +81,6 @@ permalink: /python-numeric/
       ```
       ---
       ## Next
-      [List] (https://aisha-glblcd.github.io/material/python-list)
+      [List](https://aisha-glblcd.github.io/material/python-list)
   </textarea>
 </section>
