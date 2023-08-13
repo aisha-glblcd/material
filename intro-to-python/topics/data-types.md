@@ -28,7 +28,8 @@ permalink: /python-data-types/
          * Byte Array 
          * Range
         ---
-        ## Next
+        ## Next:
         [String](https://aisha-glblcd.github.io/material/python-string/)
+        
       </textarea>
 </section>
