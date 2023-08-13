@@ -13,7 +13,7 @@ permalink: /python-string/
       >>> print ("hello" == 'hello')
       True
       ```
-      ---      
+      ---
       ## String
       ...or Unicode (with care!)
       ```sh
