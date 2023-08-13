@@ -24,7 +24,7 @@ permalink: /python-modules/
          * Inheritance
         ---
         ## Next:
-        [Modules](https://aisha-glblcd.github.io/material/python-modules/)
+        [Bytes](https://aisha-glblcd.github.io/material/python-bytes/)
      
      </textarea>
 </section>
