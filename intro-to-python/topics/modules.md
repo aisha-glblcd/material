@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: Functions
-description: An Intro to Python - Functions
+title: Modules
+description: An Intro to Python - Modules
 transition: slide
-permalink: /python-functions/
+permalink: /python-modules/
 ---
 <section data-markdown>
     <textarea data-template>
