@@ -18,7 +18,7 @@ permalink: /python-data-types/
            <type 'byte'>
            ```
            ...that describes *what it is*
-        ---
+            ---
            ## Data types
              * String, Numeric
              * List
