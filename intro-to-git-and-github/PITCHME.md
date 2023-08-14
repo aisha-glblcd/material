@@ -152,7 +152,7 @@ permalink: /intro-to-git-and-github/
        
        ---
        ## Using github
-       ![go!](../assets/img/github-256.png)
+       ![go!](../assets/img/github-512.png)
        
        Note: explore fun repos:
        https://github.com/chrislgarry/Apollo-11/tree/master/Comanche055
