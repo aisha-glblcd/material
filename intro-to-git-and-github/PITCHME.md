@@ -9,7 +9,7 @@ permalink: /intro-to-git-and-github/
     <textarea data-template>
        ## Git and GitHub
        ##### Global Code 
-       ![Git and Github](../assets/img/git-910x380.png)
+       ![Git and Github](../assets/img/git-200.png)
        
        Note:
        This is a great piece to do early on because it means you don't have to cargo-cult git into the early teaching sessions, and you can introduce some professional guidance ("use github!") very early in the programme.
