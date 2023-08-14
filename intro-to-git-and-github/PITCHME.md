@@ -171,6 +171,5 @@ permalink: /intro-to-git-and-github/
        * Have a `dev` repo
        * Everyone works in their own repo
        * Changes go into production from `dev`
-       
       </textarea>
 </section>
