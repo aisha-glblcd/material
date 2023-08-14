@@ -8,7 +8,7 @@ permalink: /web-apis/
 <section data-markdown>
     <textarea data-template>
         ## Web APIs
-        ##### Global Code | 2019
+        ##### Global Code
         ![Web APIs](../assets/img/weather-512.png)
         Note:
         In this topic we begin by investigating the weather together. It's a great place to start: the weather is variable, different across regions, has a dramatic effect on our life.
@@ -138,8 +138,9 @@ permalink: /web-apis/
         How do I request data on the web?
         Note:
         "Requesting data" could simply mean looking at a webpage. What happens when we do that? We type in a web address, which contains both the domain and the path. Our browser queries a DNS server, which translates the domain name to an IP address. We then directly request the rest of the path from the server addressed by the IP address.
-        
-        --- 
+
+        ---
+
         ## Web APIs
         How do I *PUSH* data on the web?
         * ...like in a form
