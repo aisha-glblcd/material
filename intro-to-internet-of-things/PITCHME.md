@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: Introduction to Raspberry Pi
-description: An Intro to Raspberry Pi
+title: Introduction to Internet of Things
+description:  Introduction to Internet of Things
 transition: slide
-permalink: /intro-to-raspberry-pi/
+permalink: /intro-to-internet-of-things/
 ---
 <section data-markdown>
     <textarea data-template>
