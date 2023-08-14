@@ -8,7 +8,7 @@ permalink: /intro-to-raspberry-pi/
 <section data-markdown>
     <textarea data-template>
     ## Raspberry Pi
-    ##### Global Code | 2023
+    ##### Global Code
     ![Raspberry Pi](../assets/img/raspberry-pi-720x340.png)
     
     ---
@@ -74,7 +74,6 @@ permalink: /intro-to-raspberry-pi/
     ![Hack](../assets/img/hack-600.png)
     
     Note:
-    1. login.iotinafrica.com everyday please
     1. Make sure you can check your email on your new computer!
     1. Make sure we've got your email address so we can add you to slack
     1. Point out where the material is
