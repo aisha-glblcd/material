@@ -3,7 +3,7 @@ layout: slide
 title: MQTT with Python and Pi
 description: MQTT with Python and Pi
 transition: slide
-permalink: /mqtt-with-python-and-pi/
+permalink: /intro-to-mqtt/
 ---
 <section data-markdown>
     <textarea data-template>
