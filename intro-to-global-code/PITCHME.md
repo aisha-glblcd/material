@@ -8,7 +8,7 @@ permalink: /intro-to-global-code/
 <section data-markdown>
     <textarea data-template>
       ## Global Code
-      ##### 2023
+      ##### 2024
       ![Global Code](../assets/img/2023GlobalCodeLogo_Dark.png)
       
       ---
