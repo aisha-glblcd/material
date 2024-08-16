@@ -9,7 +9,7 @@ permalink: /advanced-python/
     <textarea data-template>
           ## Advanced Python
 ##### Global Code | 2024
-![Advanced Python](/assets/img/python-360x361.png)
+![Advanced Python](../assets/img/python-360x361.png)
 
 ---
 ## Pip
@@ -86,6 +86,6 @@ What does "pythonic" mean - all programming languages expose the same fundamenta
 
 ---
 ## Let's do it!
-![Hack](/assets/img/hack-600.png)
+![Hack](../assets/img/hack-600.png)
     </textarea>
  </section>
