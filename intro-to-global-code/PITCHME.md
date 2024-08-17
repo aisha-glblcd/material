@@ -17,7 +17,6 @@ permalink: /intro-to-global-code/
 * Professionals
 * Educators
   
----
 Note:
     This is a great opportunity to introduce yourselves & talk about your own backgrounds.
     
