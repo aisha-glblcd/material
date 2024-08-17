@@ -11,7 +11,7 @@ permalink: /python-what-is-python/
 ## Python
 ##### Global Code | 2024
         
-![Python](../assets/img/python-360x361.png)
+ ![Python](../assets/img/python-360x361.png)
 
 ---
 ## What is Python?
