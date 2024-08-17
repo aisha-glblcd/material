@@ -7,9 +7,9 @@ permalink: /intro-to-linux/
 ---
 <section data-markdown>
     <textarea data-template>
-        ## Intro: Internet of Things
+        ## Intro: Linux
 ##### Global Code | 2024
-![Course logo alt text](../assets/img/iot-1024x706.png)
+![Global Code](../assets/img/2023GlobalCodeLogo_Dark.png)
 
 ---
 The computer is one of the most important inventions of the 20th century. Everything seems to run on computers now. But the hardware we think of as the “computer” is nothing without an interface between computer users and the hardware, which is where the operating system comes in.
