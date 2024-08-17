@@ -166,10 +166,11 @@ API is the acronym for `application programming interface` — a software interm
 
 * What happens when we do that? We type in a web address, which contains both the domain and the path. Our browser queries a DNS server, which translates the domain name to an IP address. We then directly request the rest of the path from the server addressed by the IP address.
 
-Note; Now could be a good time to ask the students to open any webpage and  the Network tab in Chrome's developer screen to check the requests going out and the different characteristics they have. 
+Note: Now could be a good time to ask the students to open any webpage and  the Network tab in Chrome's developer screen to check the requests going out and the different characteristics they have. 
 
 Some of those we will explore in this lesson soon.
 
+---
 ## What are some examples of requesting data over an API?
 * requesting weather data
 * loading your latest unread emails
@@ -182,6 +183,7 @@ We have spoken about requesting data, but APIs are much stronger that just that.
 How do I *PUSH* data on the web?
 * ...like in a form
 * POST
+  
 ---
 ## Web APIs
 It's called REST, `REpresentational State Transfer`
