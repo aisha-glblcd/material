@@ -31,10 +31,9 @@ At this point, it's a good idea to draw out the box diagrams:
 sudo pip3 install Flask
 ```
 
-Note:
-By now, students should be familiar with pip, but worth going over again
+Note: By now, students should be familiar with pip, but worth going over again
 
-+++
+---
 ## Let's build one!
 ```python
 from flask import Flask
@@ -67,7 +66,7 @@ Type python3 myapp.py to start your Flask application. This
 Get the students to do this, right now. Then, when most are on their way,
 you can bring up the next slide, then the hack! slide.
 
-+++
+---
 ## Let's build one!
 * Add another *route*
 
@@ -94,7 +93,7 @@ You can think of a couple of different routes. Get the students comfortable with
 * Make it interactive
 * Make it look awesome!
 
-+++
+---
 ## Build a homepage
 ```python
 from flask import Flask, render_template
@@ -118,7 +117,7 @@ Note:
 * the *templates* directory is convention
 * We could put the template string straight into the main file - we do it this way to manage complexity.
 
-+++
+---
 ## Build a homepage
 * Add your own css!
   * create a css file in ```static```
