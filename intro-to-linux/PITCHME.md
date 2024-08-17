@@ -14,6 +14,7 @@ permalink: /intro-to-linux/
 ---
 The computer is one of the most important inventions of the 20th century. Everything seems to run on computers now. But the hardware we think of as the “computer” is nothing without an interface between computer users and the hardware, which is where the operating system comes in.
 
+---
 ## What is Linux ?
 Linux is an open source operating system (OS). 
 
