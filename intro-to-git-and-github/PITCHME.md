@@ -9,7 +9,7 @@ permalink: /intro-to-git-and-github/
     <textarea data-template>
        ## Git and GitHub
 ##### Global Code | 2024
-![Git and Github](/assets/img/git-910x380.png)
+![Git and Github](../assets/img/git-910x380.png)
 
 Note:
 This is a great piece to do early on because it means you don't have to handwave git into the early teaching sessions, and you can introduce some professional guidance ("use github!") very early in the programme.
@@ -91,7 +91,7 @@ identify the 'clone', 'add', and 'commit' operations
 
 ---
 ## Let's do it!
-![Hack](/assets/img/hack-600.png)
+![Hack](../assets/img/hack-600.png)
 note:
 write a simple 'hello world' in Python, have the class work along with you
 print "Hello, World!"
@@ -160,7 +160,7 @@ their local <--> their github remote <--> my github clone <--> my local
 ---
 
 ## Using github
-![go!](/assets/img/github-256.png)
+![go!](../assets/img/github-256.png)
 
 Note: explore fun repos:
 https://github.com/chrislgarry/Apollo-11/tree/master/Comanche055
