@@ -25,6 +25,6 @@ permalink: /python-what-is-python/
 ---
 ## Next
 [Python Code Examples](https://aisha-glblcd.github.io/material/python-hello-python/)
-<!--Does this work?-->
+
    </textarea>
 </section>
