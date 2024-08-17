@@ -39,7 +39,7 @@ The points to introduce here are that
 * our local machine probably has a bunch of cruft on it
 * We're responsible for fixing hardware etc.
 
-+++
+---
 ## My machine
 * How can people use the stuff I build?
 * What if I write something for a client?
@@ -53,25 +53,25 @@ The points to introduce here are that
   * ...has a public IP address
   * DNS maps to a *name*
 
-+++
+---
 ## Web Hosting
 What happens if
 * a disk fails?
 * it works on my machine...
 
-+++
+---
 ## Web Hosting
 Who's responsible for
 * Upgrading python?
 * Applying server patches?
 
-+++
+---
 ## Web Hosting
 Library version upgrades?
 * `sudo pip install foo`
 * Who has the admin password?
 
-+++
+---
 ## Web Hosting
 * Who owns the machine?
   * Mine: $$$
@@ -85,12 +85,12 @@ Shared machine
 * Saves some $$$
 * Can grow/shrink GHz,RAM,HDD with use
 
-+++
+---
 ## Virtual servers
 I can install what I want
 * Same problems!
 
-+++
+---
 ## Virtual servers
 Wouldn't it be cool if I could just *say* what I wanted?
 * "64-bit RHEL with 72GB Ram, 2TB HDD please"
