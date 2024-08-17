@@ -7,11 +7,11 @@ permalink: /intro-to-global-code/
 ---
 <section data-markdown>
     <textarea data-template>
-      ## Global Code
-      ##### 2024
-      ![Global Code](../assets/img/2023GlobalCodeLogo_Dark.png)
+## Global Code
+##### 2024
+![Global Code](../assets/img/2023GlobalCodeLogo_Dark.png)
       
-     ---
+---
 ## Who are we?
 * Software engineers
 * Professionals
@@ -33,16 +33,17 @@ Note:
 * Software engineers!
 * Hand-picked
 
---
-
 Note: The point here is that everyone is a programmer, we don't do any gatekeeping here. If you're in the room, you're one of us. 
 
 Here the lamplighters can talk about their experience at Global Code last year, and how things have changed for them in the last 12 months.
+
+---
 
 ## Who are you?
 * Selection criteria wasn't about grades but about your motivation and excitement to get into technology
 * Who doesn't want to change the world?!
 
+Note:
 This is a good chance to talk about how we chose members of the class. It was entirely based on their applications. We asked four questions:
 
 * What difference is technology making in your life right now?
@@ -96,7 +97,6 @@ All kinds of other cool stuff!
 * Do the labs :)
 
 Note:
-
 We've discovered it's very useful to be overly strict about time. It's really the only thing that works. Start teaching at 9 and people will figure it out. And don't stay late because it overly disadvantages women who are more likely to have to get home. 
 
 Aside from that, it's your room - feel free to shift furniture around, listen to music, show videos if you have the bandwidth. Have fun :)
