@@ -298,6 +298,8 @@ This is a great chance to talk about layered architecture, data formats, buildin
   
 * Your APIs can be described in agnostic terms, decoupling them from any specific programming language.
   
+---
+## REST API best practices - API Specification Languages
 * Consumers of your API specification do not need to understand the guts of your application or try to learn Lisp or Haskell if that’s what you chose to write it in. They can understand exactly what they need from your API specification, written in a simple and expressive language.
 
 ---
