@@ -277,24 +277,23 @@ So the *Python* API is a *Layer* on top of the *REST* API
 * Higher level = more meaning, less work?
 
 Note:
-
 So now we've shown the two layers that the request works at - at the high level, using a rich, schema-aware API which keeps our code clean and interprets the web response, and at the lower level, using a simple HTTP GET with a specially-formatted URL and interpreting the JSON ourselves.
 
 This is a great chance to talk about layered architecture, data formats, building APIs etc.
 
 ---
-# REST API best practices
+## REST API best practices
 
 * As a software developer, you are almost guaranteed to work with or build APIs at some point in your career.
 
 * Although flexibility is a big advantage of REST APIs, that same flexibility makes it easy to design an API that’s broken or performs poorly. For this reason, developers share best practices in `REST API specifications`.
 
 ---
-# REST API best practices
+## REST API best practices
 * Having the ability to provide a definition of your API to other people – your colleagues, companies you partner with or organizations who you provide APIs to – is vital to building quality APIs.
 
 ---
-# REST API best practices - API Specification Languages
+## REST API best practices - API Specification Languages
 * API specification languages provide a standardized means to do this.
   
 * Your APIs can be described in agnostic terms, decoupling them from any specific programming language.
@@ -302,13 +301,13 @@ This is a great chance to talk about layered architecture, data formats, buildin
 * Consumers of your API specification do not need to understand the guts of your application or try to learn Lisp or Haskell if that’s what you chose to write it in. They can understand exactly what they need from your API specification, written in a simple and expressive language.
 
 ---
-# The OpenAPI Specification (OAS
+## The OpenAPI Specification (OAS
 `The OpenAPI Specification (OAS) enables exactly this transfer of knowledge from API provider to API consumer.`
 
 Swagger was the original implementation of the OpenAPI specification but the industry and most tooling has now converged to use OpenAPI.
 
 ---
-# What is the OpenAPI specification?
+## What is the OpenAPI specification?
 * it is an open standard for describing your APIs
 * allows us to provide an API specification encoded in a JSON or YAML document
 * it provides a comprehensive dictionary of terms that reflects commonly-understood concepts in the world of APIs
