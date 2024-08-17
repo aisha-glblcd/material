@@ -18,7 +18,6 @@ The computer is one of the most important inventions of the 20th century. Everyt
 ## What is Linux ?
 Linux is an open source operating system (OS). 
 
----
 Note:
 A good start to the class would be asking the students if they know what Linux is, although they may be quiet at first, we found that the more engaging a class is, the more keen they are to learn too.
 
@@ -28,12 +27,14 @@ A good start to the class would be asking the students if they know what Linux i
     * Process scheduling, memory, device and file management, security) 
 * What are other famous open source operating systems?
 * Do they use an OS?
+---
 
-
+## What is Linux ?
 Every Linux-based OS involves the `Linux Kernel`.
 
-That's the main component of the Linux operating system, communicates between a computer's hardware and its processes.
+That's the main component of the Linux operating system, it communicates between a computer's hardware and its processes.
 
+Note"
 A nice analogy to explain the role of the kernel:
 
 ```
