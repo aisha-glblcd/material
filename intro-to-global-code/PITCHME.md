@@ -16,23 +16,26 @@ permalink: /intro-to-global-code/
 * Software engineers
 * Professionals
 * Educators
-
-This is a great opportunity to introduce yourselves & talk about your own backgrounds.
-
-* Where are you from?
-* What did you study?
-* What do you do now?
-* What made you want to become a programmer? 
-* What do you get from it? 
-* Why would you encourage someone else to have a go?
-
+  
+---
+Note:
+    This is a great opportunity to introduce yourselves & talk about your own backgrounds.
+    
+    * Where are you from?
+    * What did you study?
+    * What do you do now?
+    * What made you want to become a programmer? 
+    * What do you get from it? 
+    * Why would you encourage someone else to have a go?
 
 ---
 ## Who are you?
 * Software engineers!
 * Hand-picked
 
-The point here is that everyone is a programmer, we don't do any gatekeeping here. If you're in the room, you're one of us. 
+--
+
+Note: The point here is that everyone is a programmer, we don't do any gatekeeping here. If you're in the room, you're one of us. 
 
 Here the lamplighters can talk about their experience at Global Code last year, and how things have changed for them in the last 12 months.
 
@@ -55,11 +58,13 @@ We're looking for people who are bold and excited about facing societal challeng
 * Gain new skills or improve existing ones through lots of practical exercises
 * Learn to be PRO
 * Gain the tools to improve the world
+  
+---
 
 ## What are we here for?
 * Curriculum includes Python, APIs, Internet of Things
 
-We have to teach you some stuff first of all. So there's lots of labs, which you *must* do. 
+Note: We have to teach you some stuff first of all. So there's lots of labs, which you *must* do. 
 
 In the first week we start with the basics, Linux, GitHub, APIs and Python.
 
@@ -75,13 +80,14 @@ A lot of our students are excited to learn what a professional software engineer
 * Electronics
 * Internet of Things
 
+Note:
 All kinds of other cool stuff!
 * We're *really* good at this
 * Who's used git? Render? Raspberry Pi ? Arduinos ?
 * Cool projects
 * FUN!
-
-
+  
+---
 ## Schedule & organisation
 * 9am - 4pm
 * Lunch @ 12
