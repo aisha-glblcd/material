@@ -155,6 +155,8 @@ API is the acronym for `application programming interface` — a software interm
 
 * APIs are all around us. Every time you use the uber app, send a mobile payment, post something on instagram, send an email, or change the thermostat temperature from your phone, you’re using an API.
   
+---
+## Web APIs
 * When you use one of the above apps, they connect to the Internet and send data to a server. The server then retrieves that data, interprets it, performs the necessary actions, and sends it back to your phone. The application then interprets that data and presents you with the information you wanted in a readable way. 
 
 ---
