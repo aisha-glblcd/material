@@ -38,10 +38,16 @@ Imagine if everyday objects in your house could send you messages through the in
 ## Internet of Things
 How it works?
 * Devices:  These are the 'things' in IoT, like sensors, smartwatches, or refrigerators, equipped with technology to collect data.
+  
 * Connectivity: These devices need a way to send the data they collect to the cloud or directly to other devices. This can happen via Wi-Fi, Bluetooth, cellular networks, or other means.
+  
+---
+## Internet of Things
+How it works?
 * Data Processing: Once the data reaches its destination, it needs to be processed. This can happen on a computer, a cloud server, or even on the devices themselves.
+  
 * User Interface: Finally, the processed data is made useful to the users through interfaces like smartphone apps, web pages, or even voice responses. This is where you can check data, control IoT devices, or receive alerts.
-
+  
 ---
 ## Internet of Things
 ![working-of-iot-image.png](../assets/img/working-of-iot-image.png)
