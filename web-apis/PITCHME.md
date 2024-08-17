@@ -142,7 +142,8 @@ Before we proceed with exploring even more APIs, let's take some time to discuss
 * What does API stand for?
 * What is an API?
 * What are some API examples? What APIs do we use everyday?
-  * A good time to interact with the students again in this section using different questions
+
+ Note: A good time to interact with the students again in this section using different questions
 
 ---
 ## Web APIs
