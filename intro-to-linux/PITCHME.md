@@ -56,14 +56,20 @@ The reason why different distros exist is because Linux is an open and free syst
 
 ---
 ## Linux Distributions
-For example, some people like to have a large corporation support them, and are prepared to pay for that support. Other people don't want to pay, but want a system that is stable and doesn't change unless they choose to update it. There are also people who are excited by what the technology can do, and want to try out new things - and don't mind if things break occasionally as long as they have the latest and greatest.
+* For example, some people like to have a large corporation support them, and are prepared to pay for that support.
+* Other people don't want to pay, but want a system that is stable and doesn't change unless they choose to update it.
+* There are also people who are excited by what the technology can do, and want to try out new things - and don't mind if things break occasionally as long as they have the latest and greatest.
 
+---
+## Linux Distributions
 None of those viewpoints is right or wrong - they're just different ways to look at the world, and Linux (and Free and Open Source in general) can accommodate all of those different perspectives.
 
 ---
 ## Linux Distributions
 The right to use, change, modify and share the code is a fundamental freedom. The only thing that is asked of you in return is that you respect the freedom of others to do as they want to with the code, and any changes that you make to it.
 
+---
+## Linux Distributions
 ![Linux Distros](../assets/img/linux_kernel.png)  <!-- Copyright freecodecamp -->
 
 ---
