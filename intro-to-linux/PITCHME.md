@@ -34,7 +34,7 @@ Every Linux-based OS involves the `Linux Kernel`.
 
 That's the main component of the Linux operating system, it communicates between a computer's hardware and its processes.
 
-Note"
+Note:
 A nice analogy to explain the role of the kernel:
 
 ```
