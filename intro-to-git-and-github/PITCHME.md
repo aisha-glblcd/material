@@ -68,9 +68,7 @@ see who remembers what apt is - the debian package manager
 * Allows us to keep our code remotely
 * https://www.github.com
   * create an account
-
  ---
- 
 ## Using Git 
 run `git` to show some of the commands. 
 Configure your git terminal with your github credentials
