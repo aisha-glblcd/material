@@ -289,6 +289,8 @@ This is a great chance to talk about layered architecture, data formats, buildin
 
 * Although flexibility is a big advantage of REST APIs, that same flexibility makes it easy to design an API that’s broken or performs poorly. For this reason, developers share best practices in `REST API specifications`.
 
+---
+# REST API best practices
 * Having the ability to provide a definition of your API to other people – your colleagues, companies you partner with or organizations who you provide APIs to – is vital to building quality APIs.
 
 ---
